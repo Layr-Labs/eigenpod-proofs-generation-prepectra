@@ -8,9 +8,9 @@ import (
 	"os"
 	"strconv"
 
-	eigenpodproofs "github.com/Layr-Labs/eigenpod-proofs-generation"
-	"github.com/Layr-Labs/eigenpod-proofs-generation/cli/core/onchain"
-	"github.com/Layr-Labs/eigenpod-proofs-generation/cli/utils"
+	eigenpodproofs "github.com/Layr-Labs/eigenpod-proofs-generation-prepectra"
+	"github.com/Layr-Labs/eigenpod-proofs-generation-prepectra/cli/core/onchain"
+	"github.com/Layr-Labs/eigenpod-proofs-generation-prepectra/cli/utils"
 	v1 "github.com/attestantio/go-eth2-client/api/v1"
 	"github.com/attestantio/go-eth2-client/spec"
 	"github.com/ethereum/go-ethereum/common"

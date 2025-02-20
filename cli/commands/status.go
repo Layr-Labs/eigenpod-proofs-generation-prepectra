@@ -8,8 +8,8 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/Layr-Labs/eigenpod-proofs-generation/cli/core"
-	"github.com/Layr-Labs/eigenpod-proofs-generation/cli/utils"
+	"github.com/Layr-Labs/eigenpod-proofs-generation-prepectra/cli/core"
+	"github.com/Layr-Labs/eigenpod-proofs-generation-prepectra/cli/utils"
 	"github.com/fatih/color"
 )
 

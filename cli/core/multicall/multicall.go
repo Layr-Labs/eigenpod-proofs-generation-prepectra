@@ -7,7 +7,7 @@ import (
 	"math"
 	"strings"
 
-	"github.com/Layr-Labs/eigenpod-proofs-generation/cli/utils"
+	"github.com/Layr-Labs/eigenpod-proofs-generation-prepectra/cli/utils"
 	"github.com/ethereum/go-ethereum/accounts/abi"
 	"github.com/ethereum/go-ethereum/accounts/abi/bind"
 	"github.com/ethereum/go-ethereum/common"

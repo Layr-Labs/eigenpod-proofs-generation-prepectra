@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/Layr-Labs/eigenpod-proofs-generation/cli/core"
+	"github.com/Layr-Labs/eigenpod-proofs-generation-prepectra/cli/core"
 )
 
 type Transaction struct {

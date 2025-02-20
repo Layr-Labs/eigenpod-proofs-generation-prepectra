@@ -3,9 +3,9 @@ package eigenpodproofs_test
 import (
 	"testing"
 
-	eigenpodproofs "github.com/Layr-Labs/eigenpod-proofs-generation"
-	"github.com/Layr-Labs/eigenpod-proofs-generation/beacon"
-	"github.com/Layr-Labs/eigenpod-proofs-generation/common"
+	eigenpodproofs "github.com/Layr-Labs/eigenpod-proofs-generation-prepectra"
+	"github.com/Layr-Labs/eigenpod-proofs-generation-prepectra/beacon"
+	"github.com/Layr-Labs/eigenpod-proofs-generation-prepectra/common"
 	"github.com/attestantio/go-eth2-client/spec/deneb"
 	"github.com/attestantio/go-eth2-client/spec/phase0"
 	"github.com/stretchr/testify/assert"

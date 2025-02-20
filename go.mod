@@ -1,4 +1,4 @@
-module github.com/Layr-Labs/eigenpod-proofs-generation
+module github.com/Layr-Labs/eigenpod-proofs-generation-prepectra
 
 go 1.21
 
